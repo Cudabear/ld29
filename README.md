@@ -1,4 +1,4 @@
-ld29
+LD29
 ====
 
-LD29 Game Repository
+Game for Ludum Dare 29 created using HMTL5 Canvas, Javascript, and Phaser.
