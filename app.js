@@ -20,7 +20,7 @@ var manaBar;
 
 var enemies = [];
 
-var currentLevel = 5;
+var currentLevel = 1;
 var numLevels = 10;
 var numCloneMakers = 10;
 
@@ -45,9 +45,9 @@ var finalFx;
 window.onload = function(){
 	game = new Phaser.Game(WIDTH, HEIGHT, Phaser.CANVAS, 'game', {preload: preload, create: create, update: update, render: render});
 
-	//doPreloadStuff();
-	$('#game-blocker').hide();
-	isLoading = false;
+	doPreloadStuff();
+	//$('#game-blocker').hide();
+	//isLoading = false;
 }
 
 function preload(){
