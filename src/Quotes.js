@@ -3,7 +3,7 @@ var Quotes = {
 	level1: ["I'm... alive? (click to continue)", "Looks like I'm at the bottom of the facility.", "I need to make my way up to the surface.", "(arrow keys to move)", "(press up to jump)", "(press down once to crouch and hide)","(press down twice to drop drop down from platforms)", "(press R to restart)"],
 	combatPrompt: ["I can shoot these other clones", "but to get the energy I need", "to get closer to the surface.", "Looks like I'll need to be evasive for now."],
 
-	level2: ["I can already feel myself grow stronger!", "I'm only strong enough to take one shot, though!", "I can use it to take out the clone gaurding this ladder."],
+	level2: ["I can already feel myself grow stronger!", "I'm only strong enough to take one shot, though!", "I can use it to take out the clone gaurding this ladder.", "(mouse to aim)", "(click to shoot)"],
 
 	level3: ["I can take two shots, now.", "I have to pick targets.", "The ones in the pit don't seem", "like too much of a threat."],
 
